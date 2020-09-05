@@ -1,1 +1,1 @@
-# coin-statistics
+# Coin Statistics PWA
